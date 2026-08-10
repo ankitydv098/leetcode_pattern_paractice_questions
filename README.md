@@ -77,6 +77,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/ankitydv098/ALGORITHM/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/ankitydv098/ALGORITHM/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
@@ -97,6 +98,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitydv098/ALGORITHM/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/ankitydv098/ALGORITHM/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ankitydv098/ALGORITHM/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/ankitydv098/ALGORITHM/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/ankitydv098/ALGORITHM/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/ankitydv098/ALGORITHM/tree/master/0415-add-strings) |
 | [0680-valid-palindrome-ii](https://github.com/ankitydv098/ALGORITHM/tree/master/0680-valid-palindrome-ii) |
@@ -113,6 +115,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitydv098/ALGORITHM/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/ankitydv098/ALGORITHM/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankitydv098/ALGORITHM/tree/master/0142-linked-list-cycle-ii) |
+| [0187-repeated-dna-sequences](https://github.com/ankitydv098/ALGORITHM/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/ankitydv098/ALGORITHM/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ankitydv098/ALGORITHM/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ankitydv098/ALGORITHM/tree/master/0219-contains-duplicate-ii) |
@@ -155,8 +158,25 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitydv098/ALGORITHM/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/ankitydv098/ALGORITHM/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankitydv098/ALGORITHM/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ankitydv098/ALGORITHM/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ankitydv098/ALGORITHM/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankitydv098/ALGORITHM/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ankitydv098/ALGORITHM/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ankitydv098/ALGORITHM/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ankitydv098/ALGORITHM/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ankitydv098/ALGORITHM/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->

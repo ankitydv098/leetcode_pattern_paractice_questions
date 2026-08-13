@@ -16,6 +16,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ankitydv098/ALGORITHM/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/ankitydv098/ALGORITHM/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/ankitydv098/ALGORITHM/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/ankitydv098/ALGORITHM/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankitydv098/ALGORITHM/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitydv098/ALGORITHM/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ankitydv098/ALGORITHM/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -119,6 +120,7 @@
 | [0202-happy-number](https://github.com/ankitydv098/ALGORITHM/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ankitydv098/ALGORITHM/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ankitydv098/ALGORITHM/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/ankitydv098/ALGORITHM/tree/master/0904-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ankitydv098/ALGORITHM/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankitydv098/ALGORITHM/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Design
@@ -162,6 +164,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ankitydv098/ALGORITHM/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ankitydv098/ALGORITHM/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ankitydv098/ALGORITHM/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/ankitydv098/ALGORITHM/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankitydv098/ALGORITHM/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Rolling Hash
 |  |

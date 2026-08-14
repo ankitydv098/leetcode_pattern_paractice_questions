@@ -107,6 +107,7 @@
 | [0187-repeated-dna-sequences](https://github.com/ankitydv098/ALGORITHM/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/ankitydv098/ALGORITHM/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/ankitydv098/ALGORITHM/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/ankitydv098/ALGORITHM/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/ankitydv098/ALGORITHM/tree/master/0680-valid-palindrome-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ankitydv098/ALGORITHM/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
@@ -126,6 +127,7 @@
 | [0202-happy-number](https://github.com/ankitydv098/ALGORITHM/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ankitydv098/ALGORITHM/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ankitydv098/ALGORITHM/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/ankitydv098/ALGORITHM/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ankitydv098/ALGORITHM/tree/master/0904-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ankitydv098/ALGORITHM/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankitydv098/ALGORITHM/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -169,6 +171,7 @@
 | [0187-repeated-dna-sequences](https://github.com/ankitydv098/ALGORITHM/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankitydv098/ALGORITHM/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ankitydv098/ALGORITHM/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/ankitydv098/ALGORITHM/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/ankitydv098/ALGORITHM/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/ankitydv098/ALGORITHM/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankitydv098/ALGORITHM/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |

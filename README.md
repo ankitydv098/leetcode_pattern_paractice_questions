@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankitydv098/ALGORITHM/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/ankitydv098/ALGORITHM/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ankitydv098/ALGORITHM/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ankitydv098/ALGORITHM/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/ankitydv098/ALGORITHM/tree/master/0415-add-strings) |
@@ -158,6 +159,7 @@
 | [0002-add-two-numbers](https://github.com/ankitydv098/ALGORITHM/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ankitydv098/ALGORITHM/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ankitydv098/ALGORITHM/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/ankitydv098/ALGORITHM/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/ankitydv098/ALGORITHM/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |

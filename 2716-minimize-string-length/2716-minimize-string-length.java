@@ -7,8 +7,8 @@ class Solution {
             i++;
            
         }
-        int len = set.size();
-        return len;
+        
+        return set.size();
         
     }
 }

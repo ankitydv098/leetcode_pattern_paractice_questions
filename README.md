@@ -112,6 +112,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ankitydv098/ALGORITHM/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/ankitydv098/ALGORITHM/tree/master/0680-valid-palindrome-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ankitydv098/ALGORITHM/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2716-minimize-string-length](https://github.com/ankitydv098/ALGORITHM/tree/master/2716-minimize-string-length) |
 ## Greedy
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [0904-fruit-into-baskets](https://github.com/ankitydv098/ALGORITHM/tree/master/0904-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ankitydv098/ALGORITHM/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankitydv098/ALGORITHM/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2716-minimize-string-length](https://github.com/ankitydv098/ALGORITHM/tree/master/2716-minimize-string-length) |
 ## Design
 |  |
 | ------- |

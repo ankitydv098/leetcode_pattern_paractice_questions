@@ -198,4 +198,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ankitydv098/ALGORITHM/tree/master/0187-repeated-dna-sequences) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ankitydv098/ALGORITHM/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
